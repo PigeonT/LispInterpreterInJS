@@ -1,0 +1,25 @@
+{
+  "name": "lambda",
+  "version": "0.0.1",
+  "description": "lambda language",
+  "main": "Tokenenize.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "0.0.2",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PigeonT/LispInterpreterInJS.git"
+  },
+  "author": "pigeon_t",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PigeonT/LispInterpreterInJS/issues"
+  },
+  "homepage": "https://github.com/PigeonT/LispInterpreterInJS#readme"
+}
